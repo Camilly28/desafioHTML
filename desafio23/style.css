@@ -1,0 +1,61 @@
+#menu
+{
+  background-color: rgba(19, 12, 9, 0.541);
+display: flex;
+align-items: center;
+padding: 20px;
+}
+
+#apresent
+{
+background-color: rgba(19, 12, 9, 0.541);
+opacity: 1;
+padding: 3px;
+align-items: center;
+border-color: rgb(83, 129, 214);
+margin-right: 8px;
+margin-left: 4px;
+}
+
+#hist
+{
+  background-color: rgba(19, 12, 9, 0.541);
+  opacity: 1;
+  padding: 3px;
+  align-items: center;
+  border-color: rgb(83, 129, 214);
+  margin-right: 8px;
+  margin-left: 4px;
+}
+
+#serviço
+{
+  background-color: rgba(19, 12, 9, 0.541);
+  opacity: 1;
+  padding: 3px;
+  align-items: center;
+  border-color: rgb(83, 129, 214);
+  margin-right: 8px;
+  margin-left: 4px;
+}
+
+#formulario
+{
+  background-color: rgba(19, 12, 9, 0.541);
+opacity: 1;
+padding: 3px;
+align-items: center;
+border-color: rgb(83, 129, 214);
+margin-right: 8px;
+margin-left: 4px;
+}
+
+#formu{
+  background-color: rgba(19, 12, 9, 0.541);
+opacity: 1;
+padding: 3px;
+align-items: center;
+border-color: rgb(83, 129, 214);
+margin-right: 8px;
+margin-left: 4px;
+}

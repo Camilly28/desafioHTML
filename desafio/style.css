@@ -1,0 +1,100 @@
+#menu
+{
+  background-color: rgba(19, 12, 9, 0.541);
+display: flex;
+align-items: center;
+padding: 20px;
+}
+
+body
+{
+background-image: url("flor.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+#apresent
+{
+background-color: rgba(19, 12, 9, 0.411);
+opacity: 1;
+padding: 3px;
+align-items: center;
+border-color: rgb(83, 129, 214);
+margin-right: 8px;
+margin-left: 4px;
+}
+
+#hist
+{
+  background-color: rgba(19, 12, 9, 0.541);
+  opacity: 1;
+  padding: 3px;
+  align-items: center;
+  border-color: rgb(83, 129, 214);
+  margin-right: 8px;
+  margin-left: 4px;
+}
+
+#serviço
+{
+  background-color: rgba(19, 12, 9, 0.541);
+  opacity: 1;
+  padding: 3px;
+  align-items: center;
+  border-color: rgb(83, 129, 214);
+  margin-right: 8px;
+  margin-left: 4px;
+}
+
+#formulario
+{
+  background-color: rgba(19, 12, 9, 0.541);
+opacity: 1;
+padding: 3px;
+align-items: center;
+border-color: rgb(83, 129, 214);
+margin-right: 8px;
+margin-left: 4px;
+}
+
+#formu{
+  background-color: rgba(19, 12, 9, 0.541);
+opacity: 1;
+padding: 3px;
+align-items: center;
+border-color: rgb(83, 129, 214);
+margin-right: 8px;
+margin-left: 4px;
+}
+
+.modal{
+  display: none;
+  border: rgb(168, 20, 33);
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  height: 100%;
+  padding-top: 30%;
+  background-color: rgba(87, 3, 44, 0.6);
+}
+.mostrar-modal{
+  display: block;
+}
+#conteudo-modal{
+  border: 3px solid rgb(165, 38, 59);
+  background-color: rgb(26, 1, 13);
+  padding: 20px;
+  margin: auto;
+  width: 80%;
+}
+
+.fechar{
+  position: absolute;
+  width: 20px;
+  text-align: center;
+  right: 10%;
+  top: 40%;
+  border-radius: 50%;
+  font-size: 16px;
+}
